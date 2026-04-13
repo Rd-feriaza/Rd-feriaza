@@ -79,9 +79,9 @@ Busco evolução constante, com interesse em explorar linguagens como **Python, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rd-feriaza&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Rd-feriaza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rd-feriaza&layout=compact&theme=tokyonight"/>
+<img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Rd-feriaza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>"/>
 
 </div>
 
