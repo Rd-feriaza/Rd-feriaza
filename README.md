@@ -34,7 +34,6 @@ Busco evolução constante, com interesse em explorar linguagens como **Python, 
 
 ## 🌐 Conecte-se comigo
 
-<div align="center">
 
 <a href="https://www.linkedin.com/in/m%C3%A1rcio-rodrigo-do-nascimento-364a65384/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -58,7 +57,6 @@ Busco evolução constante, com interesse em explorar linguagens como **Python, 
   <img src="https://img.shields.io/github/stars/Rd-feriaza?style=for-the-badge&logo=github&label=Estrelas" />
 </a>
 
-</div>
 
 ---
 
@@ -77,13 +75,17 @@ Busco evolução constante, com interesse em explorar linguagens como **Python, 
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-<img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Rd-feriaza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
-
-<img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Rd-feriaza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>"/>
-
-</div>
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rd-feriaza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rd-feriaza&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
 
 ---
 
