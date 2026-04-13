@@ -40,29 +40,27 @@ Busco evolução constante, com interesse em explorar linguagens como **Python, 
         <img 
         alt="followers" 
         title="Me siga no GitHub 🚀" 
-        src="https://custom-icon-badges.demolab.com/github/followers/Rd-feriaza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+        src="https://custom-icon-badges.demolab.com/github/followers/Rd-feriaza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/> 
     </a>
-
-    <a href="https://github.com/Rd-feriaza?tab=repositories&sort=stargazers">
+ <a href="https://github.com/Rd-feriaza?tab=repositories&sort=stargazers">
         <img 
         alt="total stars" 
         title="Total de estrelas ⭐" 
         src="https://custom-icon-badges.demolab.com/github/stars/Rd-feriaza?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-    </a>
-
+ </a>
     <a href="https://www.linkedin.com/in/m%C3%A1rcio-rodrigo-do-nascimento-364a65384/" target="_blank">
         <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt="LinkedIn"
-        title="Vamos nos conectar 💼" />
+        title="Vamos nos conectar 💼" / 
     </a>
-
-    <a href="https://discord.com/users/artlassix" target="_blank">
+ <a href="https://discord.com/users/artlassix" target="_blank">
         <img 
         src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
         alt="Discord"
         title="Fala comigo no Discord 🎮" />
     </a>
+    
 </p>
 
 
@@ -91,7 +89,7 @@ Busco evolução constante, com interesse em explorar linguagens como **Python, 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rd-feriaza&layout=compact&theme=tokyonight&locale=pt-br"
-    width="390"
+   width="390"
   />
 </p>
 
