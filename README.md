@@ -1,20 +1,20 @@
-<div align="center">
-
-<a href="https://github.com/Rd-feriaza" title="Me siga no GitHub 🚀">
-  <img src="https://img.shields.io/github/followers/Rd-feriaza?label=Seguidores&style=for-the-badge&color=blue" />
-</a>
-
-<a href="https://github.com/Rd-feriaza?tab=repositories" title="Veja meus repositórios ⭐">
-  <img src="https://img.shields.io/github/stars/Rd-feriaza?affiliations=OWNER&label=Estrelas&style=for-the-badge&color=yellow" />
-</a>
-
-</div>
-
----
-
 # 👋 Olá, eu sou Márcio Rodrigo  
 
 💻 Desenvolvedor em formação | Explorando o mundo da programação  
+
+<div align="center">
+
+<a href="https://github.com/Rd-feriaza" title="Me siga no GitHub 🚀">
+  <img src="https://img.shields.io/github/followers/Rd-feriaza?label=Seguidores&style=for-the-badge&color=0e75b6&logo=github&cache_seconds=86400" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Rd-feriaza?tab=repositories" title="Veja meus repositórios ⭐">
+  <img src="https://img.shields.io/github/stars/Rd-feriaza?affiliations=OWNER&label=Estrelas&style=for-the-badge&color=ffd700&logo=github&cache_seconds=86400" />
+</a>
+
+</div>
 
 ---
 
@@ -37,12 +37,8 @@ Busco evolução constante, com interesse em explorar linguagens como **Python, 
 ---
 
 ## 🛠️ Qualificação
-
-- 📘 Lógica de Programação  
-- 💻 Informática Profissional  
-- 🛠️ Manutenção de Micro e Redes  
-- 🌐 HTML e CSS  
-- 📊 Excel Intermediário  
+ 
+- 🌐 HTML e CSS   
 - 🐍 Fundamentos em Python (1 e 2)  
 - 📈 Fundamentos da Análise de Dados  
 - 🤖 Introdução à Inteligência Artificial  
