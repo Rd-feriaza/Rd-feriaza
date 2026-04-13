@@ -32,30 +32,38 @@ Busco evolução constante, com interesse em explorar linguagens como **Python, 
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Redes
 
 
-<a href="https://www.linkedin.com/in/m%C3%A1rcio-rodrigo-do-nascimento-364a65384/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center"> 
+    <a href="https://github.com/Rd-feriaza?tab=followers">
+        <img 
+        alt="followers" 
+        title="Me siga no GitHub 🚀" 
+        src="https://custom-icon-badges.demolab.com/github/followers/Rd-feriaza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+    </a>
 
-&nbsp;
+    <a href="https://github.com/Rd-feriaza?tab=repositories&sort=stargazers">
+        <img 
+        alt="total stars" 
+        title="Total de estrelas ⭐" 
+        src="https://custom-icon-badges.demolab.com/github/stars/Rd-feriaza?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+    </a>
 
-<a href="https://discord.com/users/artlassix" title="Discord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+    <a href="https://www.linkedin.com/in/m%C3%A1rcio-rodrigo-do-nascimento-364a65384/" target="_blank">
+        <img 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        alt="LinkedIn"
+        title="Vamos nos conectar 💼" />
+    </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Rd-feriaza" title="Me siga no GitHub 🚀">
-  <img src="https://img.shields.io/github/followers/Rd-feriaza?style=for-the-badge&logo=github&label=Seguidores" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Rd-feriaza?tab=repositories" title="Veja meus repositórios ⭐">
-  <img src="https://img.shields.io/github/stars/Rd-feriaza?style=for-the-badge&logo=github&label=Estrelas" />
-</a>
+    <a href="https://discord.com/users/artlassix" target="_blank">
+        <img 
+        src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+        alt="Discord"
+        title="Fala comigo no Discord 🎮" />
+    </a>
+</p>
 
 
 ---
